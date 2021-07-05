@@ -1,9 +1,6 @@
 
 /*
 Student Name: Barış Büyüktaş
-Student Number: 2020800003
-Compile Status: Compiling
-Program Status: Working
 Notes  : To run the code         1) mpic++ -o cmpe300_mpi_2020800003 ./cmpe300_mpi_2020800003.cpp
                                  2) mpirun --oversubscribe -np num_of_processor cmpe300_mpi_2020800003 /...folder_path.../mpi_project_dev0.tsv
 /**/
